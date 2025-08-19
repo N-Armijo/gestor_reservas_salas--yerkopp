@@ -1,1 +1,9 @@
 src/config.properties
+bin/
+out/
+lib/*.jar
+*.class
+.settings/
+.classpath
+.project
+.vscode/
